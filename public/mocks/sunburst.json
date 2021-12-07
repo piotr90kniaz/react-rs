@@ -1,0 +1,46 @@
+[
+  {
+    "id": "0",
+    "parent": "",
+    "name": "Factory"
+  },
+  {
+    "id": "W1",
+    "parent": "0",
+    "name": "Workcenter 1"
+  },
+  {
+    "id": "W2",
+    "parent": "0",
+    "name": "Workcenter 2"
+  },
+  {
+    "id": "W3",
+    "parent": "0",
+    "name": "Workcenter 3"
+  },
+  {
+    "id": "D1",
+    "parent": "W1",
+    "name": "Device 1",
+    "value": 1
+  },
+  {
+    "id": "D2",
+    "parent": "W2",
+    "name": "Device 2",
+    "value": 1
+  },
+  {
+    "id": "D3",
+    "parent": "W2",
+    "name": "Device 3",
+    "value": 2
+  },
+  {
+    "id": "D4",
+    "parent": "W3",
+    "name": "Device 4",
+    "value": 3
+  }
+]
